@@ -1,0 +1,3 @@
+crossing time (s)	slope (V/s)	crossing number
+1859.991427	119.163804	735
+1861.039539	107.593975	736

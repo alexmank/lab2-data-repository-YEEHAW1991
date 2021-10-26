@@ -1,0 +1,3 @@
+crossing time (s)	slope (V/s)	crossing number
+1991.224596	119.090325	858
+1992.270639	118.523179	859
